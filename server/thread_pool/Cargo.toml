@@ -1,0 +1,7 @@
+[package]
+name = "thread_pool"
+version = "0.1.0"
+authors = ["Stas Suturin <stanislav.suturin@gmail.com>"]
+edition = "2020"
+
+[dependencies]

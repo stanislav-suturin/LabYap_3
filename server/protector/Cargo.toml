@@ -1,0 +1,8 @@
+[package]
+name = "protector"
+version = "0.1.0"
+authors = ["Stas Suturin <stanislav.suturin@gmail.com>"]
+edition = "2020"
+
+[dependencies]
+rand = "0.6.4"
